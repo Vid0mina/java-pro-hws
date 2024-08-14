@@ -1,4 +1,4 @@
-rootProject.name = "otusJava"
+rootProject.name = "hws-pro"
 include("hw01-gradle")
 
 pluginManagement {
