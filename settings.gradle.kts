@@ -1,5 +1,6 @@
 rootProject.name = "hws-pro"
 include("hw01-gradle")
+include("hw3-generics")
 
 pluginManagement {
     val jgitver: String by settings
